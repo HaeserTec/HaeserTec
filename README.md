@@ -9,5 +9,3 @@
 </div>
 
 ---
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
