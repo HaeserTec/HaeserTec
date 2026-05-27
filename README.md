@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm HaeserTec 👋
+# HaeserTec
 
 [![GitHub](https://www.shieldcn.dev/badge/GitHub-%40haesertec-181717.svg?logo=github&variant=branded&size=sm&theme=purple)](https://github.com/haesertec) 
 
